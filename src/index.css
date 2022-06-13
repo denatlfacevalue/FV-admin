@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.site-card-border-less-wrapper {
+  padding: 30px;
+  background: white;
+}
+/* 
+.custom-modal-style {
+  width: 500px;
+  height: 802px;
+  } */
+
+  .react-responsive-modal-modal {
+    width: 600px;
+    max-width: 100% !important;
+    margin-top: 70px !important;
+  }
+  .MuiInputBase-root{
+    display: block !important;
+  }
+  .MuiFormControl-root{
+    display: block !important;
+  }
+  .custom-style{
+    padding-bottom: 30px;
+  }
+  /* .custom-dialog { width: 90%; } */
